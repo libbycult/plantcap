@@ -1,0 +1,11 @@
+import numpy as np 
+from matplotlib import pyplot as plt
+import random as rand
+from scipy.optimize import fsolve
+import math
+from scipy.special import gamma, factorial
+from scipy.stats import rv_histogram
+from scipy.stats import norm
+import statistics
+
+  
